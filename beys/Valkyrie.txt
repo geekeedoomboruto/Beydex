@@ -1,0 +1,9 @@
+Type: Attaque
+Coup Spécial: Propulsion Éclair
+Utilité: Attaque mobile et Attaque Statique (Avec un driver de type défense)
+Blader: Valt Aoi
+Disque: Wing
+Pointe: Accel (Acceleration)
+Évolutions: Victory, God, Strike God, Winning, Cho-Z, Slash
+Date de sortie: 8 juillet 2015
+Globalement: Bonne toupie pour sa génération

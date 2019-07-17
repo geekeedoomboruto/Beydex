@@ -1,0 +1,10 @@
+Type: Attaque
+Coup Spécial: Double lame tranchante
+Utilité: Pas grand chose
+Blader: Daigo Kurogami
+Disque: 2
+Frame: Vortex
+Pointe: Hunter
+Évolutions:
+Date de sortie: 1 juillet 2017
+Globalement: Bonne toupie

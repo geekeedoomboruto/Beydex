@@ -1,0 +1,9 @@
+Type: Attaque
+Coup Spécial: Propulsion éclair
+Utilité: Attaque
+Blader: Valt Aoi
+Disque: Boost
+Pointe: Variable
+Évolutions: God, Winning, Cho-Z, Slash
+Date de sortie: 2 avril 2016
+Globalement: Toupie Moyenne

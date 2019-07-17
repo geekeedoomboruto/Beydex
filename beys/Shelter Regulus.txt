@@ -1,0 +1,10 @@
+Type: Équilibre
+Coup Spécial: ???
+Utilité: Pas grand chose
+Blader: Ren Wu Sun
+Disque: 5
+Frame: Star
+Pointe: Tower
+Évolutions:
+Date de sortie: 21 octobre 2017
+Globalement: Nule

@@ -1,0 +1,9 @@
+Type: Attaque
+Coup Spécial: ???
+Utilité: Attaque
+Blader: Lui Shirosagi
+Disque: Nine
+Pointe: Spiral
+Évolutions: Nightmare, Bloody, Zwei
+Date de sortie: 28 décembre 2016
+Globalement: Bonne toupie pour sa génération (Première toupie avec du métal sur le layer et en rotation gauche)

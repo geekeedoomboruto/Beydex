@@ -1,0 +1,10 @@
+Type: Défense
+Coup Spécial: Bouclier Éjecteur, Hyper Bouclier Éjecteur
+Utilité: Défense (Surtout la pointe)
+Blader: Wakiya Murasaki
+Disque: 4
+Frame: Glaive
+Pointe: Atomic
+Évolutions:
+Date de sortie: 29 avril 2017
+Globalement: Bonne toupie

@@ -1,0 +1,9 @@
+Type: Attaque
+Coup Spécial: Double Sabre
+Utilité: Attaque
+Blader: Xander Shakadera
+Disque: Magnum
+Pointe: Impact
+Évolutions: Seig, Buster
+Date de sortie: 2 juillet 2016
+Globalement: Bonne toupie pour sa génération

@@ -1,0 +1,10 @@
+Type: Attaque
+Coup Spécial: ???
+Utilité: Attaque Smash ou Attaque de barage
+Blader: Norman
+Disque: 3
+Frame: Hit
+Pointe: Jaggy (ou Ultimate Reboot en vrai)
+Évolutions:
+Date de sortie: 27 janvier 2018
+Globalement: Bonne toupie

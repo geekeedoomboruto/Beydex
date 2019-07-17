@@ -1,0 +1,10 @@
+Type: Attaque
+Coup Spécial: ???
+Utilité:  Déstabilliser les adversaires
+Blader: Laban Vanot
+Disque: 12
+Frame: Lift
+Pointe: Destroy
+Évolutions: 
+Date de sortie: 14 juillet 2018
+Globalement: Bonne toupie

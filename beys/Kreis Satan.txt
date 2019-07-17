@@ -1,0 +1,11 @@
+Nom de la toupie: Kreis Satan
+Type: Défense
+Coup Spécial: rotation dérive
+Utilité: Défense
+Blader: Silas Karslise
+Disque: 2
+Frame: Glaive
+Pointe: Loop
+Évolutions: 
+Date de sortie: 18 mars 2017
+Globalement: Moyen

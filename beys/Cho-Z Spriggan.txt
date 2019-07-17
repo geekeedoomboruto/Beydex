@@ -1,0 +1,10 @@
+Type: Équilibre
+Coup Spécial: Fouet Super-Z
+Utilité: Attaquer les rotations gauches, défense, endurance, spin steal
+Blader: Shu Kurenai
+Disque: 0
+Frame: Wall
+Pointe: Zeta'
+Évolutions: Lord
+Date de sortie: 17 novembre 2018
+Globalement: Bonne

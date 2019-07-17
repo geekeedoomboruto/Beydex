@@ -1,0 +1,36 @@
+Voici l'aide du projet Beydex
+Contributeurs: Bey-Etherious, Wabson, Revive (Il teste pour voir si le tout fonctionne), Le clems (admin), Acdert (admin)
+But: Pouvoir offrir aux membres du serveur BeyCommunity un accès aux infos sur les beys
+Commandes:
+1.  !bey=nom de la bey
+    Cette commande cherche des infos sur les beys.
+    Exemple: !bey=Winning Valkyrie
+    Resultat:
+
+    Type: Attaque
+    Coup Sp�cial: Winning Slash
+    Utilit�: Attaque Mobile et Attaque Statique
+    Blader: Valt Aoi
+    Disque: 12
+    Pointe: Volcanic
+    �volutions: Cho-Z, Slash
+    Date de sortie: 17 mars 2018
+    Globalement: Bonne toupie d'attaque (surtout le layer) mais avec un driver incontrolable
+2.  !trans=mot dans nimporte quelle langue
+    Cette commande va traduire une phrase d'une autre langue en francais, utile pour décortiquer les BeyNews de Corocoro Comics
+    Exemple: !trans=Hello World
+    Resultat: Bonjour le monde
+3.  !search=truc que tu cherche
+    Cette commande cherche ce que tu le demandes sur le net et t'envoies le Resultat
+    Exemple: !search=Ilinnuc
+    Resultat:
+    ilinnuc - YouTube
+    Welcome to the OFFICIAL iLinnuc channel! For over 8 years I've been making high quality, and fun toy related videos such as Beyblade, Ben 10, Bakugan and ...
+Nous allons ajouter des commandes au fur et a mesure.
+
+
+
+Informations concernant le codage.
+Codé en JS par Wabson
+Version 1 codée en Python par Wabson
+Infos sur les beys par: Bey-Etherious et Wabson

@@ -1,0 +1,10 @@
+Type: Défense
+Coup Spécial: Mur Cyclone
+Utilité: Défense
+Blader: Joshua Burns
+Disque: 5
+Frame: Glaive
+Pointe: Guard
+Évolutions:
+Date de sortie: 11 aout 2017
+Globalement: Bonne toupie

@@ -1,0 +1,10 @@
+Type: Équillibre
+Coup Spécial: Propulsion Graviton
+Utilité: Défense (Layer)
+Blader: Cuza Ackerman
+Disque: 6
+Frame: Meteor
+Pointe: Trans
+Évolutions:
+Date de sortie: 27 mai 2017
+Globalement: Moyen

@@ -1,0 +1,10 @@
+Type: Endurance
+Coup Spécial: ???
+Utilité: Endurance
+Blader: Kit Lopez
+Disque: 12
+Frame: Expand
+Pointe: Eternal
+Évolutions:
+Date de sortie: 27 décembre 2018
+Globalement: Moyenne

@@ -1,0 +1,9 @@
+Type: Attaque
+Coup Spécial: Propulsion Ascendante
+Utilité: Défense et Endurance
+Blader: Daigo Kurogami
+Disque: Oval
+Pointe: Accel (Acceleration)
+Évolutions: Dark, Killer
+Date de sortie: 8 aout 2015
+Globalement: Exellente toupie pouvant battre des v2

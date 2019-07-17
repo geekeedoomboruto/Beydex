@@ -1,0 +1,10 @@
+Type: Endurance
+Coup Spécial: ???
+Utilité: Endurance
+Blader: Ghasem Madal
+Disque: 8
+Frame: Flow
+Pointe: Flugel
+Évolutions:
+Date de sortie: 15 juillet 2017
+Globalement: Bonne toupie

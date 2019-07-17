@@ -1,0 +1,9 @@
+Type: Attaque
+Coup Spécial: Winning Slash
+Utilité: Attaque Mobile et Attaque Statique
+Blader: Valt Aoi
+Disque: 12
+Pointe: Volcanic
+Évolutions: Cho-Z, Slash
+Date de sortie: 17 mars 2018
+Globalement: Bonne toupie d'attaque (surtout le layer) mais avec un driver incontrolable

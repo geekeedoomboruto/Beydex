@@ -1,0 +1,10 @@
+Type: Endurance
+Coup Spécial: ???
+Utilité: Défense
+Blader: Toko Aoi
+Disque: 8
+Frame: Bump
+Pointe: Wedge
+Évolutions:
+Date de sortie: 17 février 2018
+Globalement: Moyen

@@ -1,0 +1,9 @@
+Type: Attaque
+Coup Spécial: ???
+Utilité: Attaque
+Blader: Ben Azuki
+Disque: Heavy
+Pointe: Hold
+Évolutions: 
+Date de sortie: 12 novembre 2016
+Globalement: Bonne toupie pour sa génération

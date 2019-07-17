@@ -1,0 +1,10 @@
+Type: Attaque
+Coup Spécial: Redémarrage Génesis
+Utilité: Pas grand chose
+Blader: Valt Aoi
+Disque: 6
+Frame: Vortex
+Pointe: Reboot
+Évolutions: Strike God, Winning, Cho-Z, Slash
+Date de sortie: 18 mars 2017
+Globalement: Moyen

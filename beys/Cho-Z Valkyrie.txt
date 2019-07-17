@@ -1,0 +1,9 @@
+Type: Attaque
+Coup Spécial: ???
+Utilité: Attaque, défense (layer)
+Blader: Valt Aoi
+Disque: Zenith
+Pointe: Evolution
+Évolutions: Slash
+Date de sortie: 17 novembre 2018
+Globalement: Très bonne

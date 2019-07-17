@@ -1,0 +1,9 @@
+Type: Attaque
+Coup Spécial: Triple Sabre
+Utilité: Attaque Smash
+Blader: Xander Shakadera
+Disque: 1
+Pointe: Iron
+Évolutions: Buster
+Date de sortie: 16 septembre 2017
+Globalement: Excellente toupie

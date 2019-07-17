@@ -1,0 +1,9 @@
+Type: Défense
+Coup Spécial: ???
+Utilité: Pas grand chose (à cause de sa très faible résistance au burst)
+Blader: Kyle
+Disque: 7
+Pointe: Atomic
+Évolutions:
+Date de sortie: 11 aout 2018
+Globalement: Mauvaise (Layer)
